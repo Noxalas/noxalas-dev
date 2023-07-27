@@ -3,6 +3,11 @@ public
 resources
 .idea
 content/.obsidian
+content/daily/*
+content/notes/*
+content/kanban/*
+content/templates/*
 assets/indices/linkIndex.json
 assets/indices/contentIndex.json
 linkmap
+*.canvas
