@@ -1,5 +1,5 @@
 ---
-title: Kaffestrig Weekly #1
+title: Kaffestrig Weekly -#1
 date: 2023-07-29
 draft: false
 summary: First weekly update on all things Kaffestrig!
