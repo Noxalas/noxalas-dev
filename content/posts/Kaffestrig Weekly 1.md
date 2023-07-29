@@ -10,7 +10,7 @@ First weekly update on all things Kaffestrig!
 If you don't know anything about the project, [[posts/Kaffestrig|you can read all about it here.]]
 
 ## IK Systems
-![[notes/images/ik_stuff.gif]]
+![[images/ik_stuff.gif]]
 *Yes, those are indeed KAG tiles.*
 
 Most of this week was spent learning about and figuring out how to apply IK to my character animations, with varying amounts of success, but in the end I managed to get to a place where I'm happy enough that I can leave the legs be as they are for now.
