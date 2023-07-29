@@ -33,3 +33,6 @@ enableGitInfo = true
         publishDate = ["publishDate", "date"]
     [markup.goldmark.renderer]
         unsafe = true
+
+[outputs]
+  home = ["HTML", "RSS"]
