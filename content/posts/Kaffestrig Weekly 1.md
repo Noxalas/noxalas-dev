@@ -5,6 +5,7 @@ draft: false
 summary: First weekly update on all things Kaffestrig!
 tags:
 - post
+- weekly
 ---
 First weekly update on all things Kaffestrig!
 If you don't know anything about the project, [[posts/Kaffestrig|you can read all about it here.]]
