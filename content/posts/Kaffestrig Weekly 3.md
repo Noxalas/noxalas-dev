@@ -10,7 +10,7 @@ tags:
 Late weekly blog again!
 
 To make up for it, here is a concept sketch of one of the main character's weapons.
-![[images/Pasted image 20230815003622.png]]
+![Sword](/images/sword.png)
 *What's that trigger for?* 🤔
 
 The weapons the witches use are magical implements that use mana crystals as charge and manipulate their mana into different forms. The sword's elemental abilities aren't quite decided on, but I'm fairly confident I can make the basic attacks feel very good.
