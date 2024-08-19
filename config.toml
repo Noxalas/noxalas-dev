@@ -3,10 +3,13 @@ languageCode = "en-us"
 relativeURLs = false
 disablePathToLower = true
 ignoreFiles = [
-    "/content/templates/*",
-    "/content/daily/*",
-    "/content/kanban",
-    "\\.canvas$"
+    "/content/03 - Resources/*",
+    "/content/05 - Fleeting/*",
+    "/content/06 - Daily/*",
+    "/content/07 - Archives/*",
+    "/content/99 - Meta/Templates*",
+    "\\.canvas$",
+    "\\.excalidraw$"
 ]
 summaryLength = 20
 paginate = 10

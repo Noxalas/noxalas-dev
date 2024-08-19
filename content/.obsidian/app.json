@@ -1,0 +1,15 @@
+{
+  "attachmentFolderPath": "99 - Meta/01 - Images",
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 54
+  },
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "absolute",
+  "newFileLocation": "current",
+  "newFileFolderPath": ""
+}

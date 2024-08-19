@@ -1,0 +1,291 @@
+{
+  "main": {
+    "id": "e88f55844bb2cc8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b8a51211e99ed0c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc87c29daf832c0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 - Daily/Nataniel CV.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae5ebf320c765296",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 - Daily/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "73e08c17e1a0f789",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "01 - Projects/Magic system/Exploration of a magic system.canvas",
+                "viewState": {
+                  "x": 512.7197895251644,
+                  "y": 1756.1900673874936,
+                  "zoom": -0.6666666666666665
+                }
+              }
+            }
+          },
+          {
+            "id": "c0a2d1d6682af916",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Projects/Kaffestrig/Facts about the magic system in Kaffestrig.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "141305eb06556808",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Projects/24H-ACIT4910-1/User Diversity and ICT Barriers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "974bd74aa8c979a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "668da5f550a8d116",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "787b065c3a2aeb3c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "28a6dbf3a8fdea96",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8d2c8cde8b914fa9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 396.5
+  },
+  "right": {
+    "id": "1869b89315dc8143",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbc7559535e50e7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09bcaf9c192a9ef1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01 - Projects/24H-ACIT4910-1/User Diversity and ICT Barriers.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f0d8c01866a7359c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01 - Projects/24H-ACIT4910-1/User Diversity and ICT Barriers.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f995538033968a79",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "18ac94817a47c6d7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01 - Projects/24H-ACIT4910-1/User Diversity and ICT Barriers.md"
+              }
+            }
+          },
+          {
+            "id": "6e807977be443454",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "5317365910a61a45",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "5e065de3cae639b4",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "01 - Projects/24H-ACIT4910-1/User Diversity and ICT Barriers.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 570.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "zk-prefixer:Create new unique note": false
+    }
+  },
+  "active": "787b065c3a2aeb3c",
+  "lastOpenFiles": [
+    "99 - Meta/00 - Templates/New Tekstdokument.txt",
+    "06 - Daily/New Tekstdokument.txt",
+    "01 - Projects/24H-ACIT4920-1/Universal Design of Interactive Systems.md",
+    "01 - Projects/24H-ACIT49100-1/Universal Design of Interactive Systems.md",
+    "01 - Projects/EasyPlay/EasyPlay Screencast.md",
+    "01 - Projects/EasyPlay/EasyPlay Utilization.md",
+    "01 - Projects/EasyPlay/Ranking of tasks at EasyPlay.md",
+    "01 - Projects/Iridium/Iridium.md",
+    "01 - Projects/Iridium/Iridium (Substance).md",
+    "01 - Projects/Kaffestrig/Ability casting targets.md",
+    "01 - Projects/Kaffestrig/Ability System.md",
+    "01 - Projects/Kaffestrig/Action map.md",
+    "01 - Projects/Kaffestrig/Anchor Bow.md",
+    "01 - Projects/Kaffestrig/Attribute System.md",
+    "01 - Projects/Kaffestrig/Excursions.md",
+    "01 - Projects/Kaffestrig/Facts about the magic system in Kaffestrig.md",
+    "01 - Projects/Kaffestrig/Inventory System.md",
+    "01 - Projects/Kaffestrig/Kaffestrig.md",
+    "01 - Projects/Kaffestrig/Kaffestrig Kanban.md",
+    "01 - Projects/Kaffestrig/Kaffestrig MVA.md",
+    "01 - Projects/Kaffestrig/Procedural Animation.md",
+    "01 - Projects/Kaffestrig/Prototype.md",
+    "01 - Projects/Kaffestrig/Scrying implements.md",
+    "01 - Projects/Kaffestrig/Structure collapse system.md",
+    "01 - Projects/Kaffestrig/The four pillars of a magic system.md",
+    "01 - Projects/Kaffestrig/Weapons.md",
+    "01 - Projects/Kaffestrig Strike/Kaffestrig Strike.canvas",
+    "01 - Projects/Kaffestrig Strike/Strike GDD.md",
+    "01 - Projects/Magic system/Exploration of a magic system.canvas",
+    "02 - Areas/Art/2023-12-20 Erna.canvas",
+    "01 - Projects/24H-ACIT49100-1",
+    "01 - Projects/24H-ACIT4910-1",
+    "01 - Projects/24H-ACIT4920-1",
+    "01 - Projects/Nimbus Nook/Nimbus.canvas",
+    "99 - Meta/01 - Images/Pasted image 20240813182734.png",
+    "01 - Projects/Musketeer",
+    "99 - Meta/01 - Images/theoretical_contribution.png",
+    "99 - Meta/01 - Images/sword.png",
+    "99 - Meta/01 - Images/small mask people.png",
+    "99 - Meta/01 - Images/Pasted image 20240807200500.png",
+    "99 - Meta/01 - Images/Pasted image 20240803225806.png",
+    "99 - Meta/01 - Images/Pasted image 20240707211848.png",
+    "99 - Meta/01 - Images/Pasted image 20240531192204.png",
+    "99 - Meta/01 - Images/Pasted image 20240512121031.png",
+    "99 - Meta/01 - Images/Pasted image 20240512120953.png",
+    "01 - Projects/Kaffestrig/Kaffestrig.canvas",
+    "01 - Projects/Kaffestrig Strike",
+    "02 - Areas/Literature",
+    "02 - Areas/Game Dev",
+    "01 - Projects/Magic system",
+    "99 - Meta/the-art-science-of-level-design.doc",
+    "notes/Untitled.canvas",
+    "Kaffestrig.canvas"
+  ]
+}

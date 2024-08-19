@@ -1,0 +1,16 @@
+{
+  "tag-colors": [
+    {
+      "tagKey": "#ui",
+      "color": "rgba(108, 180, 240, 1)",
+      "backgroundColor": ""
+    },
+    {
+      "tagKey": "systems",
+      "color": "rgba(174, 240, 108, 1)",
+      "backgroundColor": ""
+    }
+  ],
+  "hide-tags-in-title": true,
+  "show-checkboxes": false
+}
