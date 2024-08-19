@@ -7,7 +7,7 @@ ignoreFiles = [
     "/content/05 - Fleeting/*",
     "/content/06 - Daily/*",
     "/content/07 - Archives/*",
-    "/content/99 - Meta/Templates*",
+    "/content/99*-*Meta/00*-*Templates/*",
     "\\.canvas$",
     "\\.excalidraw$"
 ]

@@ -64,7 +64,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Projects/24H-ACIT4910-1/User Diversity and ICT Barriers.md",
+                "file": "99 - Meta/00 - Templates/Weekly Update.md",
                 "mode": "source",
                 "source": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Projects/24H-ACIT4910-1/User Diversity and ICT Barriers.md",
+                "file": "99 - Meta/00 - Templates/Weekly Update.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Projects/24H-ACIT4910-1/User Diversity and ICT Barriers.md",
+                "file": "99 - Meta/00 - Templates/Weekly Update.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Projects/24H-ACIT4910-1/User Diversity and ICT Barriers.md"
+                "file": "99 - Meta/00 - Templates/Weekly Update.md"
               }
             }
           },
@@ -207,7 +207,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "01 - Projects/24H-ACIT4910-1/User Diversity and ICT Barriers.md"
+                "file": "99 - Meta/00 - Templates/Weekly Update.md"
               }
             }
           }
@@ -232,8 +232,9 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "787b065c3a2aeb3c",
+  "active": "141305eb06556808",
   "lastOpenFiles": [
+    "01 - Projects/24H-ACIT4910-1/User Diversity and ICT Barriers.md",
     "99 - Meta/00 - Templates/New Tekstdokument.txt",
     "06 - Daily/New Tekstdokument.txt",
     "01 - Projects/24H-ACIT4920-1/Universal Design of Interactive Systems.md",
@@ -284,7 +285,6 @@
     "02 - Areas/Literature",
     "02 - Areas/Game Dev",
     "01 - Projects/Magic system",
-    "99 - Meta/the-art-science-of-level-design.doc",
     "notes/Untitled.canvas",
     "Kaffestrig.canvas"
   ]
