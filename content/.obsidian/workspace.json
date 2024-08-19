@@ -25,14 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Projects/Kaffestrig/Facts about the magic system in Kaffestrig.md",
+                "file": "01 - Projects/24H-ACIT4920-1/Week 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d7eccb0799b57a0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Projects/24H-ACIT4920-1/Universal Design of Interactive Systems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "03d4d85a060632f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Projects/24H-ACIT4920-1/Week 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Projects/Kaffestrig/Facts about the magic system in Kaffestrig.md",
+                "file": "01 - Projects/24H-ACIT4920-1/Week 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Projects/Kaffestrig/Facts about the magic system in Kaffestrig.md",
+                "file": "01 - Projects/24H-ACIT4920-1/Week 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Projects/Kaffestrig/Facts about the magic system in Kaffestrig.md"
+                "file": "01 - Projects/24H-ACIT4920-1/Week 1.md"
               }
             }
           },
@@ -168,7 +192,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "01 - Projects/Kaffestrig/Facts about the magic system in Kaffestrig.md"
+                "file": "01 - Projects/24H-ACIT4920-1/Week 1.md"
               }
             }
           },
@@ -181,11 +205,11 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 570.5
+    "width": 358.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,12 +226,17 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "eed0d25d8e00c860",
+  "active": "03d4d85a060632f3",
   "lastOpenFiles": [
+    "01 - Projects/24H-ACIT4920-1/Untitled.md",
+    "01 - Projects/24H-ACIT4920-1/Universal Design of Interactive Systems.md",
+    "01 - Projects/24H-ACIT4920-1/Week 1.md",
+    "01 - Projects/24H-ACIT4920-1/What an interactive system is.md",
+    "01 - Projects/24H-ACIT4920-1/What Universal Design of ICT means to me.md",
+    "01 - Projects/Kaffestrig/Facts about the magic system in Kaffestrig.md",
     "01 - Projects/Kaffestrig/Weapons.md",
     "01 - Projects/Kaffestrig/Scrying implements.md",
     "01 - Projects/Kaffestrig/Procedural Animation.md",
-    "01 - Projects/Kaffestrig/Facts about the magic system in Kaffestrig.md",
     "01 - Projects/Kaffestrig/Kaffestrig.canvas",
     "01 - Projects/Kaffestrig Strike/Kaffestrig Strike.canvas",
     "01 - Projects/Nimbus Nook/Nimbus.canvas",
@@ -222,21 +251,16 @@
     "06 - Daily/2023-07-25.md",
     "99 - Meta/03 - Zotero/Literature Notes/@experienceWhyYouOnly.md",
     "99 - Meta/03 - Zotero/Literature Note Index.md",
-    "01 - Projects/24H-ACIT4920-1/What Universal Design of ICT means to me.md",
     "99 - Meta/03 - Zotero/Literature Notes/archambaultDataVisualizationCommunication2015.md",
     "99 - Meta/03 - Zotero/archambaultDataVisualizationCommunication2015.md",
     "99 - Meta/00 - Templates/Literature Note.md",
     "99 - Meta/03 - Zotero/Literature Notes/experienceWhyYouOnly.md",
     "99 - Meta/00 - Templates/Character Sheet.md",
     "99 - Meta/hvl_apa7_stil_bokmal_v1.csl",
-    "01 - Projects/24H-ACIT4920-1/Week 1.md",
     "99 - Meta/03 - Zotero/Literature Notes",
     "99 - Meta/03 - Zotero",
-    "01 - Projects/24H-ACIT4920-1/Untitled.md",
-    "01 - Projects/24H-ACIT4920-1/Universal Design of Interactive Systems.md",
     "01 - Projects/24H-ACIT4100-1/Understanding and Communicating Research.md",
     "01 - Projects/24H-ACIT4910-1/User Diversity and ICT Barriers.md",
-    "99 - Meta/00 - Templates/Weekly Update.md",
     "99 - Meta/00 - Templates/New Tekstdokument.txt",
     "06 - Daily/New Tekstdokument.txt",
     "01 - Projects/Magic system/Exploration of a magic system.canvas",

@@ -50,3 +50,38 @@
 ## Assignments
 1. [[What Universal Design of ICT means to me]]
 2. [[Fix a document]]
+
+## Lecture notes
+- Introductions
+	- Bachelor
+	- 1st year
+	- GDScript, Python, C#, JavaScript
+- Course introduction & requirements
+- Accessible documents
+- Questions
+	- [[What do universal design and interactive systems mean?]]
+	- [[How is universal design related to other concepts such as disability and assistive technology?]]
+	- [[What are the seven principles of universal design?]]
+	- [[Why and how to make different digital documents accessible?]]
+
+Universal design == Design for all == Inclusive design
+
+"Universal design is design that is usable by all people, to the greatest extent possible, without the need for adaptation or specialized design." - Ron Mace, 1985
+
+The Accessibility Pyramid
+Four levels of accommodation for disability.
+
+The disability gab model
+
+Assistive Technology
+An umbrella term for assistive products.
+
+Expectations
+Learn methods on how to design and evaluate universally accessible systems
+Practice in projects
+Reading, practicing, presenting, writing
+Effort is required :)
+
+ChatGPT must be logged and cited.
+
+Proper exporting of properties in .pdf files

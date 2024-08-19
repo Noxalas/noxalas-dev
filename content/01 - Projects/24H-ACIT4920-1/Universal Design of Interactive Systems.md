@@ -6,4 +6,6 @@ draft: true
 [Canvas Course Page](https://oslomet.instructure.com/courses/29102)
 
 ## Assignments
-### [[Week 1]]
+-  [[Week 1]]
+
+## Books
