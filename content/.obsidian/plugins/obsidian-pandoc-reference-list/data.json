@@ -1,0 +1,19 @@
+{
+  "pathToPandoc": "C:\\ProgramData\\chocolatey\\bin\\pandoc.EXE",
+  "tooltipDelay": 400,
+  "zoteroGroups": [
+    {
+      "id": 1,
+      "name": "My Library",
+      "lastUpdate": 1724056946638
+    }
+  ],
+  "renderCitations": true,
+  "renderCitationsReadingMode": true,
+  "renderLinkCitations": true,
+  "pullFromZotero": true,
+  "cslStylePath": "99 - Meta/hvl_apa7_stil_bokmal_v1.csl",
+  "cslLang": "en-US",
+  "enableCiteKeyCompletion": true,
+  "showCitekeyTooltips": true
+}

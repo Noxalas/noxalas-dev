@@ -11,5 +11,6 @@
   "alwaysUpdateLinks": true,
   "newLinkFormat": "absolute",
   "newFileLocation": "current",
-  "newFileFolderPath": ""
+  "newFileFolderPath": "",
+  "readableLineLength": false
 }

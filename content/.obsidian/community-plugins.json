@@ -7,5 +7,8 @@
   "obsidian-icon-folder",
   "obsidian-excalidraw-plugin",
   "obsidian-local-rest-api",
-  "advanced-canvas"
+  "advanced-canvas",
+  "obsidian-zotero-desktop-connector",
+  "obsidian-pandoc",
+  "obsidian-pandoc-reference-list"
 ]

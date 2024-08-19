@@ -8,46 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dc87c29daf832c0f",
+            "id": "72551d7219104052",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Daily/Nataniel CV.md",
+                "file": "01 - Projects/24H-ACIT4920-1/Week 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ae5ebf320c765296",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06 - Daily/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "73e08c17e1a0f789",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "01 - Projects/Magic system/Exploration of a magic system.canvas",
-                "viewState": {
-                  "x": 512.7197895251644,
-                  "y": 1756.1900673874936,
-                  "zoom": -0.6666666666666665
-                }
-              }
-            }
-          },
-          {
-            "id": "c0a2d1d6682af916",
+            "id": "eed0d25d8e00c860",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -57,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "141305eb06556808",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "99 - Meta/00 - Templates/Weekly Update.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 396.5
+    "width": 464.5124969482422
   },
   "right": {
     "id": "1869b89315dc8143",
@@ -137,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99 - Meta/00 - Templates/Weekly Update.md",
+                "file": "01 - Projects/Kaffestrig/Facts about the magic system in Kaffestrig.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99 - Meta/00 - Templates/Weekly Update.md",
+                "file": "01 - Projects/Kaffestrig/Facts about the magic system in Kaffestrig.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99 - Meta/00 - Templates/Weekly Update.md"
+                "file": "01 - Projects/Kaffestrig/Facts about the magic system in Kaffestrig.md"
               }
             }
           },
@@ -207,12 +168,20 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "99 - Meta/00 - Templates/Weekly Update.md"
+                "file": "01 - Projects/Kaffestrig/Facts about the magic system in Kaffestrig.md"
               }
+            }
+          },
+          {
+            "id": "70672712e04d53f0",
+            "type": "leaf",
+            "state": {
+              "type": "ReferenceListView",
+              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -229,46 +198,51 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "zk-prefixer:Create new unique note": false
+      "zk-prefixer:Create new unique note": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "141305eb06556808",
+  "active": "eed0d25d8e00c860",
   "lastOpenFiles": [
+    "01 - Projects/Kaffestrig/Weapons.md",
+    "01 - Projects/Kaffestrig/Scrying implements.md",
+    "01 - Projects/Kaffestrig/Procedural Animation.md",
+    "01 - Projects/Kaffestrig/Facts about the magic system in Kaffestrig.md",
+    "01 - Projects/Kaffestrig/Kaffestrig.canvas",
+    "01 - Projects/Kaffestrig Strike/Kaffestrig Strike.canvas",
+    "01 - Projects/Nimbus Nook/Nimbus.canvas",
+    "01 - Projects/Nimbus Nook/Nimbus Dialogue System.md",
+    "01 - Projects/The World of Iridium/Air Witch.md",
+    "01 - Projects/The World of Iridium/Kaster Gauntlet.md",
+    "02 - Areas/Art/2023-12-20 Erna.canvas",
+    "02 - Areas/Interactive Design/SYWMG Episode 9.md",
+    "06 - Daily/2023-07-26.md",
+    "06 - Daily/2023-07-19.md",
+    "06 - Daily/2023-07-12.md",
+    "06 - Daily/2023-07-25.md",
+    "99 - Meta/03 - Zotero/Literature Notes/@experienceWhyYouOnly.md",
+    "99 - Meta/03 - Zotero/Literature Note Index.md",
+    "01 - Projects/24H-ACIT4920-1/What Universal Design of ICT means to me.md",
+    "99 - Meta/03 - Zotero/Literature Notes/archambaultDataVisualizationCommunication2015.md",
+    "99 - Meta/03 - Zotero/archambaultDataVisualizationCommunication2015.md",
+    "99 - Meta/00 - Templates/Literature Note.md",
+    "99 - Meta/03 - Zotero/Literature Notes/experienceWhyYouOnly.md",
+    "99 - Meta/00 - Templates/Character Sheet.md",
+    "99 - Meta/hvl_apa7_stil_bokmal_v1.csl",
+    "01 - Projects/24H-ACIT4920-1/Week 1.md",
+    "99 - Meta/03 - Zotero/Literature Notes",
+    "99 - Meta/03 - Zotero",
+    "01 - Projects/24H-ACIT4920-1/Untitled.md",
+    "01 - Projects/24H-ACIT4920-1/Universal Design of Interactive Systems.md",
+    "01 - Projects/24H-ACIT4100-1/Understanding and Communicating Research.md",
     "01 - Projects/24H-ACIT4910-1/User Diversity and ICT Barriers.md",
+    "99 - Meta/00 - Templates/Weekly Update.md",
     "99 - Meta/00 - Templates/New Tekstdokument.txt",
     "06 - Daily/New Tekstdokument.txt",
-    "01 - Projects/24H-ACIT4920-1/Universal Design of Interactive Systems.md",
-    "01 - Projects/24H-ACIT49100-1/Universal Design of Interactive Systems.md",
-    "01 - Projects/EasyPlay/EasyPlay Screencast.md",
-    "01 - Projects/EasyPlay/EasyPlay Utilization.md",
-    "01 - Projects/EasyPlay/Ranking of tasks at EasyPlay.md",
-    "01 - Projects/Iridium/Iridium.md",
-    "01 - Projects/Iridium/Iridium (Substance).md",
-    "01 - Projects/Kaffestrig/Ability casting targets.md",
-    "01 - Projects/Kaffestrig/Ability System.md",
-    "01 - Projects/Kaffestrig/Action map.md",
-    "01 - Projects/Kaffestrig/Anchor Bow.md",
-    "01 - Projects/Kaffestrig/Attribute System.md",
-    "01 - Projects/Kaffestrig/Excursions.md",
-    "01 - Projects/Kaffestrig/Facts about the magic system in Kaffestrig.md",
-    "01 - Projects/Kaffestrig/Inventory System.md",
-    "01 - Projects/Kaffestrig/Kaffestrig.md",
-    "01 - Projects/Kaffestrig/Kaffestrig Kanban.md",
-    "01 - Projects/Kaffestrig/Kaffestrig MVA.md",
-    "01 - Projects/Kaffestrig/Procedural Animation.md",
-    "01 - Projects/Kaffestrig/Prototype.md",
-    "01 - Projects/Kaffestrig/Scrying implements.md",
-    "01 - Projects/Kaffestrig/Structure collapse system.md",
-    "01 - Projects/Kaffestrig/The four pillars of a magic system.md",
-    "01 - Projects/Kaffestrig/Weapons.md",
-    "01 - Projects/Kaffestrig Strike/Kaffestrig Strike.canvas",
-    "01 - Projects/Kaffestrig Strike/Strike GDD.md",
     "01 - Projects/Magic system/Exploration of a magic system.canvas",
-    "02 - Areas/Art/2023-12-20 Erna.canvas",
-    "01 - Projects/24H-ACIT49100-1",
+    "01 - Projects/24H-ACIT4100-1",
     "01 - Projects/24H-ACIT4910-1",
     "01 - Projects/24H-ACIT4920-1",
-    "01 - Projects/Nimbus Nook/Nimbus.canvas",
     "99 - Meta/01 - Images/Pasted image 20240813182734.png",
     "01 - Projects/Musketeer",
     "99 - Meta/01 - Images/theoretical_contribution.png",
@@ -280,11 +254,7 @@
     "99 - Meta/01 - Images/Pasted image 20240531192204.png",
     "99 - Meta/01 - Images/Pasted image 20240512121031.png",
     "99 - Meta/01 - Images/Pasted image 20240512120953.png",
-    "01 - Projects/Kaffestrig/Kaffestrig.canvas",
     "01 - Projects/Kaffestrig Strike",
-    "02 - Areas/Literature",
-    "02 - Areas/Game Dev",
-    "01 - Projects/Magic system",
     "notes/Untitled.canvas",
     "Kaffestrig.canvas"
   ]

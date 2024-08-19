@@ -1,0 +1,27 @@
+{
+  "database": "Zotero",
+  "noteImportFolder": "99 - Meta/03 - Zotero/Literature Notes/",
+  "pdfExportImageDPI": 120,
+  "pdfExportImageFormat": "png",
+  "pdfExportImageQuality": 90,
+  "citeFormats": [
+    {
+      "name": "APA7",
+      "format": "formatted-citation",
+      "cslStyle": "http://www.zotero.org/styles/apa-HVL-7-nb"
+    }
+  ],
+  "exportFormats": [
+    {
+      "name": "Create Literature Note",
+      "outputPathTemplate": "99 - Meta/03 - Zotero/Literature Notes/@{{citekey}}_{{year}}.md",
+      "imageOutputPathTemplate": "99 - Meta/01 - Images/{{citekey}}",
+      "imageBaseNameTemplate": "image",
+      "templatePath": "99 - Meta/00 - Templates/Literature Note.md",
+      "cslStyle": "http://www.zotero.org/styles/apa-HVL-7-nb"
+    }
+  ],
+  "citeSuggestTemplate": "[[{{citekey}}]]",
+  "openNoteAfterImport": false,
+  "whichNotesToOpenAfterImport": "first-imported-note"
+}
