@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "72551d7219104052",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Projects/24H-ACIT4920-1/Week 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eed0d25d8e00c860",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Projects/24H-ACIT4920-1/Week 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d7eccb0799b57a0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Projects/24H-ACIT4920-1/Universal Design of Interactive Systems.md",
+                "file": "01 - Projects/01 - OsloMet/24H-ACIT4920-1/Universal Design of Interactive Systems.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Projects/24H-ACIT4920-1/Week 1.md",
+                "file": "01 - Projects/01 - OsloMet/24H-ACIT4910-1/User Diversity and ICT Barriers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dd2a5d8c75231eaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Projects/01 - OsloMet/24H-ACIT4910-1/User Diversity and ICT Barriers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1db18d2ecbb47a9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Areas/Literature/Book.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Projects/24H-ACIT4920-1/Week 1.md",
+                "file": "01 - Projects/01 - OsloMet/24H-ACIT4910-1/User Diversity and ICT Barriers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Projects/24H-ACIT4920-1/Week 1.md",
+                "file": "01 - Projects/01 - OsloMet/24H-ACIT4910-1/User Diversity and ICT Barriers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Projects/24H-ACIT4920-1/Week 1.md"
+                "file": "01 - Projects/01 - OsloMet/24H-ACIT4910-1/User Diversity and ICT Barriers.md"
               }
             }
           },
@@ -192,7 +192,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "01 - Projects/24H-ACIT4920-1/Week 1.md"
+                "file": "01 - Projects/01 - OsloMet/24H-ACIT4910-1/User Diversity and ICT Barriers.md"
               }
             }
           },
@@ -226,13 +226,33 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "03d4d85a060632f3",
+  "active": "dd2a5d8c75231eaf",
   "lastOpenFiles": [
+    "01 - Projects/01 - OsloMet/24H-ACIT4910-1/Achieving full participation through Universal Design.md",
+    "01 - Projects/01 - OsloMet/24H-ACIT4910-1/Web Accessibility.md",
+    "02 - Areas/Literature/Book.md",
+    "01 - Projects/01 - OsloMet/24H-ACIT4910-1/User Diversity and ICT Barriers.md",
+    "99 - Meta/04 - Books and papers/achieving_full_participation_universal_design_en.pdf",
+    "99 - Meta/04 - Books and papers/fuglerud_2014_phd_thesis_inclusive_design_of_ict.pdf",
+    "99 - Meta/04 - Books and papers/declaration_riga.pdf",
+    "99 - Meta/04 - Books and papers/ict_requirements.pdf",
+    "99 - Meta/04 - Books and papers/web_accessibility_a_foundation_of_research.pdf",
+    "99 - Meta/04 - Books and papers/world_report_on_disability.pdf",
+    "99 - Meta/04 - Books and papers",
+    "99 - Meta/New folder",
+    "01 - Projects/01 - OsloMet/24H-ACIT4920-1/Week 1.md",
+    "01 - Projects/01 - OsloMet/24H-ACIT4920-1/What Universal Design of ICT means to me.md",
+    "01 - Projects/01 - OsloMet/24H-ACIT4920-1/Fix a Word Document.md",
+    "01 - Projects/01 - OsloMet/Untitled Kanban.md",
+    "01 - Projects/01 - OsloMet/24H-ACIT4920-1/What an interactive system is.md",
+    "01 - Projects/01 - OsloMet/24H-ACIT4920-1/Universal Design of Interactive Systems.md",
+    "01 - Projects/01 - OsloMet/Untitled.md",
+    "01 - Projects/01 - OsloMet",
     "01 - Projects/24H-ACIT4920-1/Untitled.md",
-    "01 - Projects/24H-ACIT4920-1/Universal Design of Interactive Systems.md",
-    "01 - Projects/24H-ACIT4920-1/Week 1.md",
-    "01 - Projects/24H-ACIT4920-1/What an interactive system is.md",
-    "01 - Projects/24H-ACIT4920-1/What Universal Design of ICT means to me.md",
+    "01 - Projects/01 - OsloMet/24H-ACIT4100-1/Understanding and Communicating Research.md",
+    "07 - Archives/School/EasyPlay/EasyPlay Algorithm.canvas",
+    "01 - Projects/01 - OsloMet/24H-ACIT4100-1/ACIT4100-1 Week 1.md",
+    "01 - Projects/01 - OsloMet/24H-ACIT4100-1/The flipped classroom approach.md",
     "01 - Projects/Kaffestrig/Facts about the magic system in Kaffestrig.md",
     "01 - Projects/Kaffestrig/Weapons.md",
     "01 - Projects/Kaffestrig/Scrying implements.md",
@@ -248,27 +268,9 @@
     "06 - Daily/2023-07-26.md",
     "06 - Daily/2023-07-19.md",
     "06 - Daily/2023-07-12.md",
-    "06 - Daily/2023-07-25.md",
-    "99 - Meta/03 - Zotero/Literature Notes/@experienceWhyYouOnly.md",
-    "99 - Meta/03 - Zotero/Literature Note Index.md",
-    "99 - Meta/03 - Zotero/Literature Notes/archambaultDataVisualizationCommunication2015.md",
-    "99 - Meta/03 - Zotero/archambaultDataVisualizationCommunication2015.md",
-    "99 - Meta/00 - Templates/Literature Note.md",
-    "99 - Meta/03 - Zotero/Literature Notes/experienceWhyYouOnly.md",
-    "99 - Meta/00 - Templates/Character Sheet.md",
     "99 - Meta/hvl_apa7_stil_bokmal_v1.csl",
-    "99 - Meta/03 - Zotero/Literature Notes",
-    "99 - Meta/03 - Zotero",
-    "01 - Projects/24H-ACIT4100-1/Understanding and Communicating Research.md",
-    "01 - Projects/24H-ACIT4910-1/User Diversity and ICT Barriers.md",
-    "99 - Meta/00 - Templates/New Tekstdokument.txt",
-    "06 - Daily/New Tekstdokument.txt",
     "01 - Projects/Magic system/Exploration of a magic system.canvas",
-    "01 - Projects/24H-ACIT4100-1",
-    "01 - Projects/24H-ACIT4910-1",
-    "01 - Projects/24H-ACIT4920-1",
     "99 - Meta/01 - Images/Pasted image 20240813182734.png",
-    "01 - Projects/Musketeer",
     "99 - Meta/01 - Images/theoretical_contribution.png",
     "99 - Meta/01 - Images/sword.png",
     "99 - Meta/01 - Images/small mask people.png",
@@ -278,7 +280,6 @@
     "99 - Meta/01 - Images/Pasted image 20240531192204.png",
     "99 - Meta/01 - Images/Pasted image 20240512121031.png",
     "99 - Meta/01 - Images/Pasted image 20240512120953.png",
-    "01 - Projects/Kaffestrig Strike",
     "notes/Untitled.canvas",
     "Kaffestrig.canvas"
   ]
