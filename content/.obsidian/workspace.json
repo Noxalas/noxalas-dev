@@ -13,13 +13,82 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Projects/01 - OsloMet/24H-ACIT4920-1/What Universal Design of ICT means to me.md",
+                "file": "01 - Projects/01 - OsloMet/24H-ACIT4920-1/Week 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c4cbeff8c1d4f2cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Projects/01 - OsloMet/24H-ACIT4920-1/Week 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cb2685c39c7b1677",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Projects/01 - OsloMet/24H-ACIT4920-1/Caption a video.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c90b4ac5af719f6f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "8fb4a0fb028b4989",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Projects/01 - OsloMet/24H-ACIT4920-1/Caption a video.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "79c5dce6d7036d02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Projects/01 - OsloMet/24H-ACIT4920-1/My Experiences with Captions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "13423cf6d43eb38e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Projects/01 - OsloMet/24H-ACIT4920-1/My Experiences with Captions.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +154,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Projects/01 - OsloMet/24H-ACIT4920-1/What Universal Design of ICT means to me.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +170,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Projects/01 - OsloMet/24H-ACIT4920-1/What Universal Design of ICT means to me.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +191,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "01 - Projects/01 - OsloMet/24H-ACIT4920-1/What Universal Design of ICT means to me.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,9 +219,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "01 - Projects/01 - OsloMet/24H-ACIT4920-1/What Universal Design of ICT means to me.md"
-              }
+              "state": {}
             }
           },
           {
@@ -189,10 +252,18 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "eed0d25d8e00c860",
+  "active": "c90b4ac5af719f6f",
   "lastOpenFiles": [
-    "01 - Projects/01 - OsloMet/24H-ACIT4920-1/What Universal Design of ICT means to me 1.md",
+    "01 - Projects/01 - OsloMet/OsloMet.md",
+    "01 - Projects/01 - OsloMet/24H-ACIT4920-1/Challenges in describing images in documents and webpages.md",
+    "01 - Projects/01 - OsloMet/24H-ACIT4920-1/Caption a video.md",
+    "01 - Projects/01 - OsloMet/24H-ACIT4920-1/Week 2.md",
+    "01 - Projects/01 - OsloMet/24H-ACIT4920-1/Week 1.md",
+    "01 - Projects/01 - OsloMet/24H-ACIT4920-1/My Experiences with Captions.md",
+    "01 - Projects/01 - OsloMet/24H-ACIT4920-1/Fix a document.pdf",
+    "01 - Projects/01 - OsloMet/24H-ACIT4920-1/Fix a Word Document.md",
     "01 - Projects/01 - OsloMet/24H-ACIT4920-1/What Universal Design of ICT means to me.md",
+    "01 - Projects/01 - OsloMet/24H-ACIT4920-1/What Universal Design of ICT means to me 1.md",
     "01 - Projects/01 - OsloMet/24H-ACIT4920-1/What Universal Design of ICT means to me.pdf",
     "07 - Archives/School/EasyPlay/Ranking of tasks at EasyPlay.md",
     "07 - Archives/School/EasyPlay/EasyPlay Utilization.md",
@@ -207,10 +278,7 @@
     "03 - Resources/02 - Literature",
     "02 - Areas/Literature/Book.md",
     "01 - Projects/01 - OsloMet/24H-ACIT4920-1/What an interactive system is.md",
-    "01 - Projects/01 - OsloMet/24H-ACIT4920-1/Week 1.md",
-    "01 - Projects/01 - OsloMet/24H-ACIT4920-1/Fix a Word Document.md",
     "01 - Projects/01 - OsloMet/24H-ACIT4920-1/Universal Design of Interactive Systems.md",
-    "01 - Projects/01 - OsloMet/24H-ACIT4920-1/Fix a document.pdf",
     "01 - Projects/01 - OsloMet/24H-ACIT4910-1/Week 1.md",
     "01 - Projects/01 - OsloMet/24H-ACIT4910-1/Web Accessibility.md",
     "01 - Projects/01 - OsloMet/24H-ACIT4910-1/User Diversity and ICT Barriers.md",
@@ -222,10 +290,6 @@
     "01 - Projects/01 - OsloMet/24H-ACIT4100-1/ACIT4100-1 Week 1.md",
     "01 - Projects/01 - OsloMet/Untitled Kanban.md",
     "02 - Areas/Food/Shokupan Bread Recipe.md",
-    "01 - Projects/24H-ACIT4920-1/Universal Design of Interactive Systems.md",
-    "01 - Projects/24H-ACIT4920-1/Week 1.md",
-    "01 - Projects/24H-ACIT4100-1/Understanding and Communicating Research.md",
-    "01 - Projects/Nimbus Nook/Movement Design.md",
     "01 - Projects/Nimbus Nook/Nimbus.canvas",
     "01 - Projects/Kaffestrig/Kaffestrig.canvas",
     "01 - Projects/Kaffestrig Strike/Kaffestrig Strike.canvas",

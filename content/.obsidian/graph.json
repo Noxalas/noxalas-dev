@@ -2,7 +2,7 @@
   "collapse-filter": false,
   "search": "",
   "showTags": true,
-  "showAttachments": true,
+  "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
@@ -64,31 +64,17 @@
       }
     },
     {
-      "query": "path:\"01 - Projects/24H-ACIT4100-1\"  ",
+      "query": "path:\"01 - Projects/01 - OsloMet\"  ",
       "color": {
         "a": 1,
-        "rgb": 15640388
+        "rgb": 16768000
       }
     },
     {
-      "query": "path:\"01 - Projects/24H-ACIT4920-1\"  ",
+      "query": "path:\"01 - Projects\"",
       "color": {
         "a": 1,
-        "rgb": 15640388
-      }
-    },
-    {
-      "query": "path:\"01 - Projects/24H-ACIT4910-1\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 15640388
-      }
-    },
-    {
-      "query": "path:\"01 - Projects\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 3397571
+        "rgb": 5366249
       }
     }
   ],
@@ -102,6 +88,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.23231190568390808,
+  "scale": 0.6315822359175763,
   "close": false
 }
