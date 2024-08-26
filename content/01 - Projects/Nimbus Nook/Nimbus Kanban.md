@@ -1,6 +1,6 @@
 ---
 
-kanban-plugin: basic
+kanban-plugin: board
 
 ---
 
@@ -10,18 +10,11 @@ kanban-plugin: basic
 
 ## Backlog
 
-- [ ] Create villager concepts and models #art #modeling
-- [ ] Create banner art for game and media #marketing #art
-- [ ] [[01 - Projects/notes/Create value propositions|Create value propositions]] #marketing
-- [ ] Art bible #art
-- [ ] Game Design Doc #design
-- [ ] Technical document #implementation
-- [ ] Marketing plan #marketing
 
 
 ## In-progress
 
-- [ ] [[01 - Projects/Nimbus Nook/Set up accounts|Set up accounts]] #marketing
+- [ ] Ground movement
 
 
 ## Finito
@@ -32,6 +25,6 @@ kanban-plugin: basic
 
 %% kanban:settings
 ```
-{"kanban-plugin":"basic"}
+{"kanban-plugin":"board","list-collapse":[null,null,null,false]}
 ```
 %%
