@@ -11,9 +11,11 @@
             "id": "eed0d25d8e00c860",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "01 - Projects/24H-ACIT4920-1/What Universal Design of ICT means to me.pdf"
+                "file": "01 - Projects/01 - OsloMet/24H-ACIT4920-1/What Universal Design of ICT means to me.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Projects/24H-ACIT4920-1/What Universal Design of ICT means to me.pdf",
+                "file": "01 - Projects/01 - OsloMet/24H-ACIT4920-1/What Universal Design of ICT means to me.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Projects/24H-ACIT4920-1/What Universal Design of ICT means to me.pdf",
+                "file": "01 - Projects/01 - OsloMet/24H-ACIT4920-1/What Universal Design of ICT means to me.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Projects/24H-ACIT4920-1/What Universal Design of ICT means to me.pdf"
+                "file": "01 - Projects/01 - OsloMet/24H-ACIT4920-1/What Universal Design of ICT means to me.md"
               }
             }
           },
@@ -153,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "01 - Projects/24H-ACIT4920-1/What Universal Design of ICT means to me.pdf"
+                "file": "01 - Projects/01 - OsloMet/24H-ACIT4920-1/What Universal Design of ICT means to me.md"
               }
             }
           },
@@ -189,6 +191,9 @@
   },
   "active": "eed0d25d8e00c860",
   "lastOpenFiles": [
+    "01 - Projects/01 - OsloMet/24H-ACIT4920-1/What Universal Design of ICT means to me 1.md",
+    "01 - Projects/01 - OsloMet/24H-ACIT4920-1/What Universal Design of ICT means to me.md",
+    "01 - Projects/01 - OsloMet/24H-ACIT4920-1/What Universal Design of ICT means to me.pdf",
     "07 - Archives/School/EasyPlay/Ranking of tasks at EasyPlay.md",
     "07 - Archives/School/EasyPlay/EasyPlay Utilization.md",
     "07 - Archives/School/EasyPlay/EasyPlay Screencast.md",
@@ -201,7 +206,6 @@
     "03 - Resources/02 - Literature/achieving_full_participation_universal_design_en.pdf",
     "03 - Resources/02 - Literature",
     "02 - Areas/Literature/Book.md",
-    "01 - Projects/01 - OsloMet/24H-ACIT4920-1/What Universal Design of ICT means to me.md",
     "01 - Projects/01 - OsloMet/24H-ACIT4920-1/What an interactive system is.md",
     "01 - Projects/01 - OsloMet/24H-ACIT4920-1/Week 1.md",
     "01 - Projects/01 - OsloMet/24H-ACIT4920-1/Fix a Word Document.md",
@@ -217,15 +221,12 @@
     "01 - Projects/01 - OsloMet/24H-ACIT4100-1/Understanding and Communicating Research.md",
     "01 - Projects/01 - OsloMet/24H-ACIT4100-1/ACIT4100-1 Week 1.md",
     "01 - Projects/01 - OsloMet/Untitled Kanban.md",
-    "01 - Projects/01 - OsloMet/24H-ACIT4920-1",
-    "01 - Projects/24H-ACIT4920-1/What Universal Design of ICT means to me.md",
     "02 - Areas/Food/Shokupan Bread Recipe.md",
     "01 - Projects/24H-ACIT4920-1/Universal Design of Interactive Systems.md",
     "01 - Projects/24H-ACIT4920-1/Week 1.md",
     "01 - Projects/24H-ACIT4100-1/Understanding and Communicating Research.md",
     "01 - Projects/Nimbus Nook/Movement Design.md",
     "01 - Projects/Nimbus Nook/Nimbus.canvas",
-    "99 - Meta/02 - Excalidraw/202408211237.excalidraw.md",
     "01 - Projects/Kaffestrig/Kaffestrig.canvas",
     "01 - Projects/Kaffestrig Strike/Kaffestrig Strike.canvas",
     "02 - Areas/Art/2023-12-20 Erna.canvas",
